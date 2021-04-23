@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzkid&label=Profile%20views&color=0e75b6&style=flat" alt="hanzkid" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Javascript Program**
+- 🌱 I’m currently working on **Backend Developer ( NodeJS, PHP )**
 
-- 💬 Ask me about **laravel, debian, gcp / azure.**
+- 💬 Ask me about **laravel, debian, gcp.**
 
 - 📫 How to reach me **burhanyusuf@outlook.com**
 
